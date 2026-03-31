@@ -1,0 +1,1 @@
+/home/cristianbravo/proyecto_gases_hi/taller_proyecto_gases_hi/target/release/05_reporte: /home/cristianbravo/proyecto_gases_hi/taller_proyecto_gases_hi/src/bin/05_reporte.rs /home/cristianbravo/proyecto_gases_hi/taller_proyecto_gases_hi/src/lib.rs

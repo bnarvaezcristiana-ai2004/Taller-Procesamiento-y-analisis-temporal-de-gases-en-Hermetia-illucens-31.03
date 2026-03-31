@@ -1,0 +1,1 @@
+/home/cristianbravo/proyecto_gases_hi/taller_proyecto_gases_hi/target/release/02_segmentacion: /home/cristianbravo/proyecto_gases_hi/taller_proyecto_gases_hi/src/bin/02_segmentacion.rs /home/cristianbravo/proyecto_gases_hi/taller_proyecto_gases_hi/src/lib.rs

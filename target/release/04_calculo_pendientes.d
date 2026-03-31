@@ -1,0 +1,1 @@
+/home/cristianbravo/proyecto_gases_hi/taller_proyecto_gases_hi/target/release/04_calculo_pendientes: /home/cristianbravo/proyecto_gases_hi/taller_proyecto_gases_hi/src/bin/04_calculo_pendientes.rs /home/cristianbravo/proyecto_gases_hi/taller_proyecto_gases_hi/src/lib.rs

@@ -1,0 +1,37 @@
+[package]
+name = "proyecto_gases_hi"
+version = "0.1.0"
+edition = "2021"
+authors = ["Tu Nombre <tu@email.com>"]
+description = "Procesamiento y análisis temporal de gases en Hermetia illucens"
+
+[dependencies]
+csv = "1.3"
+chrono = { version = "0.4", features = ["serde"] }
+plotters = { version = "0.3", features = ["full_palette"] }
+serde = { version = "1.0", features = ["derive"] }
+thiserror = "1.0"
+
+[lib]
+name = "proyecto_gases_hi"
+path = "src/lib.rs"
+
+[[bin]]
+name = "01_preparacion"
+path = "src/bin/01_preparacion.rs"
+
+[[bin]]
+name = "02_segmentacion"
+path = "src/bin/02_segmentacion.rs"
+
+[[bin]]
+name = "03_graficos"
+path = "src/bin/03_graficos.rs"
+
+[[bin]]
+name = "04_calculo_pendientes"
+path = "src/bin/04_calculo_pendientes.rs"
+
+[[bin]]
+name = "05_reporte"
+path = "src/bin/05_reporte.rs"
